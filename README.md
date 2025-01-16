@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit</h1>
-<h3 align="center">Engineering student from VIT Chennai</h3>
-
-- 🔭 I am an enthusiast of **Competitive Programming**
-
-- 🌱 I’m currently learning **Solidity**
-
-- 👯 I’m looking to collaborate on **AI Projects**
-
-- 💬 Ask me about **Blockchain dev**
-
-- 📫 How to reach me **vinitpatil519@gmail.com**
+<h3 align="center">Engineering student at VIT Chennai</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
