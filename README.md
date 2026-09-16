@@ -1,5 +1,5 @@
 #  About Me:
-CTO and Co-founder of NoQuant AI (Ai powered Quant finance platform for vibe-trading and market research). <br>Final year Btech CSE AI student from VIT Chennai.<br>AWS Certified Solutions Architect and working forward to become a SRE.
+<br>Final year Btech CSE AI student from VIT Chennai.<br>AWS Certified Solutions Architect and working forward to become a SRE.<br>Apart form that, either I am over-caffeinated or I am sleeping<br>
 
 
 ##  Socials:
