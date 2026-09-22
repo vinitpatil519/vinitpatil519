@@ -11,4 +11,3 @@
 ![Skill icons](https://skillicons.dev/icons?i=java%2Ccpp%2Cc%2Csolidity%2Csql%2Cnosql%2Cgraphql%2Cmongodb%2Cpy%2Cbash%2Cts%2Cjs%2Creact%2Cnodejs%2Cgit%2Caws%2Cdocker%2Ckubernetes%2Cjenkins%2Cansible%2Credis%2Chelm%2Cnginx%2Capache%2Cterraform%2Cpython%2Ctensorflow%2Cnumpy%2Cnpm%2C%2Cgitlab%2Cargocd%2Cnumpy%2Cbash%2Cfastapi%2Cfirebase%2Csupabase%2Ccockroachdb%2Cazure%2Cgrafana%2Cprometheus%2Crestapi%2Cpowershell%2Crabbitmq%2C&perline=10&theme=dark)
 
 
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/vinitpatil519) — one-click GitHub README cards.</sub>
